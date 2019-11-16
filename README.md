@@ -3,4 +3,4 @@
 For GSG Code Academy
 
 hosted on Github Pages ...
-https://mahmoudsaidzughbor.github.io/project-js.
+https://mahmoudsaidzughbor.github.io/project-js./
